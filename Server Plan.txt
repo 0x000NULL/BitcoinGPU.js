@@ -1,0 +1,17 @@
+srv1
+ - ubuntu
+ - bitcoin full node
+ - wallet backups
+ - "hunter" server
+
+srv2
+ - ubuntu
+ - hunter slave
+
+srv3
+ - ubuntu
+ - hunter slave
+
+???
+ - ubuntu
+ - hunter slave
