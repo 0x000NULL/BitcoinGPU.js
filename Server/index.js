@@ -238,8 +238,8 @@ const words = [
 
 
 const SHARED_SECRET = "secret";
-let knownWords = ["army", "excuse", "hero", "wolf", "disease", "liberty", "moral", "diagram"];
-let batchSize = 16777216;
+let knownWords = ["potato", "orbit", "before", "magnet", "true", "dinosaur", "purity", "busy", "inherit", "embrace"];
+let batchSize = 16777216; //in bytes free on GPU
 let solution = null;
 let indices = knownWords.map(knownWord => words.findIndex(word => word === knownWord));
 

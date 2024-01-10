@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
-#include <C:\Users\e.aldrich\Desktop\BitcoinGPU.js\test at self written\bitcoin/bitcoin.hpp> // Assuming libbitcoin is installed
+#include <bitcoin.hpp> // Assuming libbitcoin is installed
 #include <sqlite3.h>
 #include <chrono>
 #include <thread>
