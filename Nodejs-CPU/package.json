@@ -15,6 +15,5 @@
     "blessed": "^0.1.81",
     "coinkey": "^3.0.0",
     "tiny-secp256k1": "^2.2.1"
-    "gpu.js"
   }
 }
