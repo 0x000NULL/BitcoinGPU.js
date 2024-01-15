@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "server for distributed privkey mining",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x000NULL/BitcoinGPU.js.git"
+  },
+  "author": "Ethan Aldrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x000NULL/BitcoinGPU.js/issues"
+  },
+  "homepage": "https://github.com/0x000NULL/BitcoinGPU.js#readme"
+}
